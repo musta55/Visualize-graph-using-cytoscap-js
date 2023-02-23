@@ -18,6 +18,8 @@
     "@angular/platform-browser": "^15.1.0",
     "@angular/platform-browser-dynamic": "^15.1.0",
     "@angular/router": "^15.1.0",
+    "@fortawesome/angular-fontawesome": "^0.12.1",
+    "@syncfusion/ej2-angular-navigations": "^20.4.51",
     "@types/cytoscape": "^3.19.9",
     "cytoscape": "^3.23.0",
     "cytoscape-navigator": "^2.0.2",
